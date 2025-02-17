@@ -2,7 +2,7 @@ Github Backend Repo
 https://github.com/subinlotz/Authentication-Backend
 
 Deployed Frontend Url
-https://authentication-frontend-pniwhwacy-subinlotzs-projects.vercel.app/
+https://authjwt1.netlify.app/
 
 
 Deployed Backend Url
