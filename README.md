@@ -2,7 +2,7 @@ Github Backend Repo
 https://github.com/subinlotz/Authentication-Backend
 
 Deployed Frontend Url
-https://exampleFrontend.vercel.app/
+https://authentication-frontend-pniwhwacy-subinlotzs-projects.vercel.app/
 
 
 Deployed Backend Url
